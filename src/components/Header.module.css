@@ -1,0 +1,55 @@
+.header {
+    background-color: rgb(25, 26, 35);
+}
+
+.container {
+    text-align: center;
+}
+
+.container h1 {
+    color: #fff;
+    font-size: 23px;
+    padding-top: 20px;
+}
+
+.container p {
+    font-size: 14px;
+    color: #ffffff71;
+    margin-top: 5px;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.container2 button {
+    background-color: rgb(4, 136, 212);
+    border: none;
+    padding: 5px;
+    color: #Fff;
+}
+
+.container2 input {
+    width: 250px;
+    outline: none;
+}
+
+.resultFor {
+    text-align: center;
+    color: #fff;
+    margin-top: 10px;
+    padding-bottom: 15px;
+}
+
+.result {
+    color: gray;
+    font-size: 13px;
+}
+
+.word {
+    margin-left: 5px;
+    font-size: 13px;
+    color: #fff;
+}
